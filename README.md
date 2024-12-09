@@ -1,6 +1,5 @@
-# untitled
+# Moody App
 
-A new Flutter project.
 
 ## Getting Started
 
