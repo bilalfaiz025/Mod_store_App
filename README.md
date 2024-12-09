@@ -17,12 +17,12 @@ Download and Install Apps:
 The app provides a straightforward interface for users to access the latest apps and games in various genres.
 Admin Dashboard:
 
-Admins can manage the app’s content, including adding, updating, or removing apps and games.
+# Admins can manage the app’s content, including adding, updating, or removing apps and games.
 Admins can categorize apps and games into different genres, providing a structured experience for users.
 Real-time management through Firebase backend.
 App & Game Genres:
 
-Apps and games are organized into genres, making it easy for users to find the type of content they are interested in.
+# Apps and games are organized into genres, making it easy for users to find the type of content they are interested in.
 Admins can add, edit, or delete genres as needed.
 Technologies Used
 Flutter: A framework for building natively compiled applications for mobile from a single codebase.
@@ -30,19 +30,11 @@ Firebase: Used for user authentication, real-time database, and backend services
 Dart: Programming language used for building the Flutter app.
 How to Run the App
 Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/Mod_store_App.git
+# git clone https://github.com/yourusername/Mod_store_App.git
 Install the required dependencies:
-
-bash
-Copy code
-flutter pub get
+# flutter pub get
 Set up Firebase by following the setup instructions for Firebase in your Flutter app.
-
 Run the app:
+# flutter run
 
-bash
-Copy code
-flutter run
+
