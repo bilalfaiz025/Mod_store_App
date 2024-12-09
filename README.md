@@ -30,7 +30,7 @@ Firebase: Used for user authentication, real-time database, and backend services
 Dart: Programming language used for building the Flutter app.
 How to Run the App
 Clone the repository:
-# git clone https://github.com/yourusername/Mod_store_App.git
+# git clone https://github.com/bilalfaiz025/Mod_store_App.git
 Install the required dependencies:
 # flutter pub get
 Set up Firebase by following the setup instructions for Firebase in your Flutter app.
